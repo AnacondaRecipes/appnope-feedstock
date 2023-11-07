@@ -31,14 +31,14 @@ test:
     - pip check
 
 about:
-  home: http://github.com/minrk/appnope
+  home: https://github.com/minrk/appnope
   license: BSD-2-Clause
   license_family: BSD
   license_file: LICENSE
   summary: Disable App Nap on OS X 10.9
   description: |
     appnope is a simple package for disabling App Nap on OS X 10.9, which can be problematic.
-  doc_url: https://pypi.python.org/pypi/appnope/0.1.0
+  doc_url: https://github.com/minrk/appnope/blob/main/README.md
   dev_url: https://github.com/minrk/appnope
 
 extra:
